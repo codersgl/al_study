@@ -3,6 +3,8 @@ import numpy as np
 from collections import Counter
 
 
+
+
 class kNNClassifier(object):
     def __init__(self, k):
         """
